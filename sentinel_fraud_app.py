@@ -688,7 +688,7 @@ if st.session_state.page == "dashboard":
                     <span style="font-family:'DM Mono',monospace;font-size:11px;letter-spacing:2px;color:#22C55E;">SYSTEM OPERATIONAL</span>
                 </div>
                 <div class="banner-title">🛡️ SENTINEL — Fraud Intelligence Command Centre</div>
-                <div class="banner-subtitle">REAL-TIME ATM & CARD FRAUD DETECTION · ZEDCREST CAPITAL · Q1 2026</div>
+                <div class="banner-subtitle">REAL-TIME ATM & CARD FRAUD DETECTION · Q1 2026 · BUILT BY KAJOLA GBENGA</div>
             </div>
             <div style="text-align:right;">
                 <div style="font-family:'DM Mono',monospace;font-size:11px;color:#475569;">LAST SCAN</div>
